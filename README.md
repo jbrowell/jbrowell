@@ -1,0 +1,1 @@
+👋 Hi, I’m @jbrowell. I'm an academic working on methods for probabilsitic forecasting and their application in the energy sector and beyond. You can find more about me, including a list of publications, on my [personal website](https://www.jethrobrowell.com) and Univeristy of Glasgow [profile](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/jethrobrowell/).
